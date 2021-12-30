@@ -3,13 +3,12 @@ Version: 0.0.1
 Release: {{{ git_version }}}%{?dist}
 Summary: LBRY seeder
 
-License:    MIT
-URL:        https://github.com/hegjon/lbry-seeder
-VCS:        {{{ git_vcs }}}
+License: MIT
+URL:     https://github.com/hegjon/lbry-seeder
+VCS:     {{{ git_vcs }}}
+Source:  {{{ git_pack }}}
 
-Source:     {{{ git_pack }}}
 BuildArch: noarch
-
 BuildRequires: clojure
 Requires(pre): shadow-utils
 
