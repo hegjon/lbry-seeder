@@ -1,0 +1,16 @@
+[Unit]
+Description=lbrynet daemon
+After=network.target remote-fs.target
+
+[Service]
+Type=simple
+User=lbry-seeder
+Group=lbry-seeder
+Restart=on-failure
+RestartSec=30s
+TimeoutStopSec=300s
+
+ExecStart=/usr/bin/lbrynet
+
+[Install]
+WantedBy=multi-user.target

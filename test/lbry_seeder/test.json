@@ -1,0 +1,2513 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "blocked": {
+      "channels": [],
+      "total": 0
+    },
+    "items": [
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.12",
+        "canonical_url": "lbry://@MoneroMatteo#b/nature-walk-salvation-tribu---medium#f",
+        "claim_id": "f8a96200c88c13a9451de2aa4653d78a474843b7",
+        "claim_op": "create",
+        "confirmations": 57599,
+        "height": 1022759,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1022759,
+          "creation_height": 1022759,
+          "creation_timestamp": 1630655932,
+          "effective_amount": "0.12",
+          "expiration_height": 3125159,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1022759,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "nature-walk-salvation-tribu---medium",
+        "normalized_name": "nature-walk-salvation-tribu---medium",
+        "nout": 0,
+        "permanent_url": "lbry://nature-walk-salvation-tribu---medium#f8a96200c88c13a9451de2aa4653d78a474843b7",
+        "short_url": "lbry://nature-walk-salvation-tribu---medium#f",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1630655932,
+        "txid": "4e2142e8d9acf2e3cf1ebdb0680bfb9a62f85936371f19a73f514ee40bbe9d73",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nEnjoying nature in Jasper Georgia. It was a beautiful day and I just couldn't pass up! We discuss some current events in the world, channel developments, Monero developments and other fun things.\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: \n496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nBitcoin (BTC) Address: \nbc1q0myje5uzrwxj7pua4em4dcaqxjmd86ptgacq9r\n\nCardano (ADA) Address: \naddr1qyy3dryd985s5gsflrazveu05fxq95rdkf8anj6k62ekqncfz6xg620fpg3qn786yenclgjvqtgxmvj0m894d54nvp8skw5sru\n\nDash (DASH) Address: \nXgqVcMKkapFNzwnTowcBWwVqz31i8JvBN5\n\nPirate Chain (ARRR) Address: \nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: \ndERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1630650907",
+          "source": {
+            "hash": "1cfa3d715d5d1dbfcbb22e52ccc39befb9818c5fc9f5bb5b4dd4b1def69ae339c569063648a69407ad56909f653e5bfe",
+            "media_type": "video/mp4",
+            "name": "nature walk salvation tribu - medium.mp4",
+            "sd_hash": "f32b69113395824ca001efbf135934d5ec7537dad14609d5bb6e7201e51577624b7fa0e88f4bd7af1a19d96dfc07f816",
+            "size": "2439583675"
+          },
+          "stream_type": "video",
+          "tags": [
+            "nature",
+            "christ",
+            "bitcoin",
+            "cryptocurrency",
+            "news"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/d/6b50906dbf9224bf.png"
+          },
+          "title": "Nature Walk - Tribulation, Salvation, Monero, Channel Updates & More",
+          "video": {
+            "duration": 1134,
+            "height": 720,
+            "width": 1280
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "1.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Tax-AI-Blockchain#f",
+        "claim_id": "f97588550dbb516baf2de71238f923f31afd5f59",
+        "claim_op": "create",
+        "confirmations": 59331,
+        "height": 1021027,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1021027,
+          "creation_height": 1021027,
+          "creation_timestamp": 1630379367,
+          "effective_amount": "1.0",
+          "expiration_height": 3123427,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1021027,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Tax-AI-Blockchain",
+        "normalized_name": "tax-ai-blockchain",
+        "nout": 0,
+        "permanent_url": "lbry://Tax-AI-Blockchain#f97588550dbb516baf2de71238f923f31afd5f59",
+        "short_url": "lbry://Tax-AI-Blockchain#f",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1630379367,
+        "txid": "4c161374936e66c8f24206ea80aabe446bae501bc9b8ce6909d98502899fa4b1",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nToday we dive deep into the cutting-edge developments happening in regards to public blockchains, surveillance, artificial intelligence, taxation, social credit, global government and other topics that intertwine together.\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1630376238",
+          "source": {
+            "hash": "242d5f32f10d49fdba1e74a8c20d44c02f838f84af680937cc475d236a6e5d3b22fc87e9c7d828e92eb49b62799d2475",
+            "media_type": "video/mp4",
+            "name": "Tax AI Blockchain.mp4",
+            "sd_hash": "8bf1cb4e987d9a061442067f996b832410b2c724038d960c913980e297f8077cac09a73be15d4d0c56ba3b05108c2428",
+            "size": "1482273614"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "education",
+            "technology",
+            "monero",
+            "cryptocurrency"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/2/96f4c1290be272b3.png"
+          },
+          "title": "An Unholy Alliance - Blockchain, AI, Taxation, Social Credit, & Global Government",
+          "video": {
+            "duration": 5737,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.2",
+        "canonical_url": "lbry://@MoneroMatteo#b/SUNDAY-STREAM-4---COMMANDMENTS-BEATITUDE-1#d",
+        "claim_id": "de200a117b82998ffe7055293eb4d34924e6da6e",
+        "claim_op": "create",
+        "confirmations": 63851,
+        "height": 1016507,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1016507,
+          "creation_height": 1016507,
+          "creation_timestamp": 1629660888,
+          "effective_amount": "0.2",
+          "expiration_height": 3118907,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1016507,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "SUNDAY-STREAM-4---COMMANDMENTS-BEATITUDE-1",
+        "normalized_name": "sunday-stream-4---commandments-beatitude-1",
+        "nout": 0,
+        "permanent_url": "lbry://SUNDAY-STREAM-4---COMMANDMENTS-BEATITUDE-1#de200a117b82998ffe7055293eb4d34924e6da6e",
+        "short_url": "lbry://SUNDAY-STREAM-4---COMMANDMENTS-BEATITUDE-1#d",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1629660888,
+        "txid": "28ed9e6815fd5e8903e806f416a8d406be2efe53ab228aba2b67bb924dc07aa8",
+        "type": "claim",
+        "value": {
+          "description": "Glory To God -\nPlease subscribe and like. Donations are accepted at the addresses below - much appreciated. Let's make this an open discussion, leave comments! \n\nToday we get back to Daniel Sysoev's Law of God to discuss The Commandments of Beatitude. These were commandments given by Jesus to his disciples while preaching on a mountain beside the lake of Galilee. We also discuss some news with the channel and current events. We discuss fear, faith, Christ and much more. Enjoy.\n\nTimestamps:\n\n0:00:00 - Intro\n0:04:45 - Current Events\n0:08:20 - On Fear and Faith\n0:14:00 - Opening Prayer\n0:17:25 - Day's Reading - Law of God\n1:00:00 - Closing Comments\n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nPatreon: https://www.patreon.com/moneromatteo\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1629660571",
+          "source": {
+            "hash": "16bd974fd485183bb1fe2ef884948490b220399daffdef28374d1f37aa95b80fdc255aedb43e55be4fc463b7124c4a9e",
+            "media_type": "video/mp4",
+            "name": "SUNDAY STREAM 4 - COMMANDMENTS BEATITUDE 1.mp4",
+            "sd_hash": "09b555a4538239ab2f24e8aee1468a9101d08675da2aa878948bfe70923155f7489bd00d714146fa5b71d02dea75049b",
+            "size": "459903369"
+          },
+          "stream_type": "video",
+          "tags": [
+            "christianity",
+            "christ",
+            "life",
+            "faith",
+            "orthodoxy"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/9/0da255aa2285d292.png"
+          },
+          "title": "Sunday Stream 4 - The Commandments of Beatitude (Part 1)",
+          "video": {
+            "duration": 3744,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.5",
+        "canonical_url": "lbry://@MoneroMatteo#b/Monero-Bullish-Nothing-Will#e",
+        "claim_id": "ef11993e6b80948207b8759dc0812404d3907df2",
+        "claim_op": "create",
+        "confirmations": 66985,
+        "height": 1013373,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1013373,
+          "creation_height": 1013373,
+          "creation_timestamp": 1629167114,
+          "effective_amount": "0.5",
+          "expiration_height": 3115773,
+          "is_controlling": true,
+          "reposted": 1,
+          "support_amount": "0.0",
+          "take_over_height": 1013373,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Monero-Bullish-Nothing-Will",
+        "normalized_name": "monero-bullish-nothing-will",
+        "nout": 0,
+        "permanent_url": "lbry://Monero-Bullish-Nothing-Will#ef11993e6b80948207b8759dc0812404d3907df2",
+        "short_url": "lbry://Monero-Bullish-Nothing-Will#e",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1629167114,
+        "txid": "e86afcdbd6908dbd4b21204a6b2a975737e27141a0ca775bb066d45130840eeb",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nTimestamps: \n0:00:00 - Intro\n0:01:35 - John Oliver Comments\n0:06:15 - Exchange Surveillance Expansion\n0:23:45 - Blacklist Expansion\n0:42:00 - Additional Bullish Points For Monero\n0:47:40 - Conclusions & Closing\n\nThe bullish case is becoming overwhelming for Monero. Today is discussed the expansion of exchange regulation and the likely expansion of government crypto blacklists. Some comments are offered as to more implications of the potentially coming unrealized capital gains taxes. \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1629166796",
+          "source": {
+            "hash": "9a84af63c04a57f61d045a183c0c67e9b060d9fec8ad167cb2f2a7c95666a7bc20edda930f873a83ab3fc863373aeba0",
+            "media_type": "video/mp4",
+            "name": "Monero Bullish Nothing Will.mp4",
+            "sd_hash": "0e7d942635580905c47a5a7cb9ae165109303abd2120bf2055564e82a8f01884e99742fe33e50a276f94be710c620e67",
+            "size": "214668828"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "economics",
+            "cryptocurrency",
+            "bitcoin",
+            "monero"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/3/c7485432275f74e9.png"
+          },
+          "title": "Actually Urgent - Monero To Soon Begin Epic Move Against Bitcoin",
+          "video": {
+            "duration": 3076,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "2.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Nature-Walk---The-Spirit-of-Pirate-Chain#1",
+        "claim_id": "1610f56b5164d7568411d5d061882dbb288483c8",
+        "claim_op": "create",
+        "confirmations": 50870,
+        "height": 1029488,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1029488,
+          "creation_height": 1029488,
+          "creation_timestamp": 1631726528,
+          "effective_amount": "2.0",
+          "expiration_height": 3131888,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1029488,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Nature-Walk---The-Spirit-of-Pirate-Chain",
+        "normalized_name": "nature-walk---the-spirit-of-pirate-chain",
+        "nout": 0,
+        "permanent_url": "lbry://Nature-Walk---The-Spirit-of-Pirate-Chain#1610f56b5164d7568411d5d061882dbb288483c8",
+        "short_url": "lbry://Nature-Walk---The-Spirit-of-Pirate-Chain#1",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1631726528,
+        "txid": "1657f2d17162433628887eda0b92f89afff7ef274417d005e41a32b2eac94350",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nToday we are back out in Nature! We find a nice little bank off the beaten path to chat about the great Pirate Chain community, Monero being ripe for mass adoption, Zano and my introduction to that interesting project, our channel's niche but key philosophy and more! Enjoy.\n\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: https://ccs.getmonero.org/\n\nChannel Donations:\n\nMonero (XMR) Address: \n89dXS8iuGdSgAXjXA7dGjZ1P8CEtKf4A1Hb7TvsAHqAShSwNy6NngNUZgXiN9nEifw8nsMuo2uLrM9jtni4c2b8c1o7ZGM5\n\nBitcoin (BTC) Address: \nbc1q0myje5uzrwxj7pua4em4dcaqxjmd86ptgacq9r\n\nCardano (ADA) Address: \naddr1qyy3dryd985s5gsflrazveu05fxq95rdkf8anj6k62ekqncfz6xg620fpg3qn786yenclgjvqtgxmvj0m894d54nvp8skw5sru\n\nZano: ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDash (DASH) Address: \nXgqVcMKkapFNzwnTowcBWwVqz31i8JvBN5\n\nPirate Chain (ARRR) Address: \nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: \ndERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1631724178",
+          "source": {
+            "hash": "c967797fa563ff80b1f0d1a67cd5092754459a45832454ad3721ddf94c31f4efe96da270be03cf065949d95191607cf3",
+            "media_type": "video/mp4",
+            "name": "Nature Walk - The Spirit of Pirate Chain.mp4",
+            "sd_hash": "5e3fc31280b9fba382ed50eace1bfd4fe4a26727f28e7884047f30a3ca382f4ef30bd50acf6be3f7c18966c081c42725",
+            "size": "4241425112"
+          },
+          "stream_type": "video",
+          "tags": [
+            "monero",
+            "bitcoin",
+            "cryptocurrency",
+            "nature",
+            "christianity"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/b/6c09156abd1a1bd3.png"
+          },
+          "title": "Nature Walk - Giving Love To The Pirate Chain Spirit + Freedom Coin Commentary",
+          "video": {
+            "duration": 1204,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.5",
+        "canonical_url": "lbry://@MoneroMatteo#b/Petrodollar-Dying---Eurasia-Trade-Zone#1",
+        "claim_id": "1acc5489ec949dee9d5f7ea234a37e1914ce2f8c",
+        "claim_op": "create",
+        "confirmations": 58227,
+        "height": 1022131,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1022131,
+          "creation_height": 1022131,
+          "creation_timestamp": 1630554817,
+          "effective_amount": "0.5",
+          "expiration_height": 3124531,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1022131,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Petrodollar-Dying---Eurasia-Trade-Zone",
+        "normalized_name": "petrodollar-dying---eurasia-trade-zone",
+        "nout": 0,
+        "permanent_url": "lbry://Petrodollar-Dying---Eurasia-Trade-Zone#1acc5489ec949dee9d5f7ea234a37e1914ce2f8c",
+        "short_url": "lbry://Petrodollar-Dying---Eurasia-Trade-Zone#1",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1630554817,
+        "txid": "8e0b4aae166717ff8a19b8f96acfb5b2ab82c29069f9c97f9701ef308a59d43e",
+        "type": "claim",
+        "value": {
+          "description": "Please like, share and subscribe if you found the video valuable. Consider donating at the below addresses or becoming a patron on our Patreon. \n\nThis video is a bit different than what we usually do on the channel. Here we discuss the quickly shifting geopolitical landscape that is occurring after America and it's allies withdrew from Afghanistan. Russia and China continue to benefit from the collapse of the American Empire and are expanding ties with other nations in the region: Saudi Arabia, India, Pakistan, Iran and others. \n\nTimestamps:\n\nIntro: 0:00:00\nChina Advances In South China Sea: 0:03:55\nFall of Afghanistan Geopolitical Implications: 0:10:40\nIndia & Russia Strengthen Ties: 0:44:15\nPetrodollar Brief History: 0:49:32\nSaudi Arabia Nuclear Option Against US: 1:01:31\nSaudi Arabia Bolsters Ties With Russia: 1:05:55\nChina BRI & New Afghanistan: 1:12:35\nRussian Pipelines, Gazprom, Eurasian Integration: 1:16:42\nConclusions & Outro: 1:38:55\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nCardano (ADA) Address: addr1qyy3dryd985s5gsflrazveu05fxq95rdkf8anj6k62ekqncfz6xg620fpg3qn786yenclgjvqtgxmvj0m894d54nvp8skw5sru\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1630550903",
+          "source": {
+            "hash": "07c83bfb818dab15319233331e50fe89e757fc5527dce0d5c3a678c3c00c5c52f4633c2371bf28c7cc8af7c4b239ea7a",
+            "media_type": "video/mp4",
+            "name": "Petrodollar Dying & Eurasia Trade Zone.mp4",
+            "sd_hash": "db3699effa701838f12d50527530b9048c1a87f3950662a9de95f3b0a910c287579b24b62e2bea29a9dad15597dade90",
+            "size": "1751409672"
+          },
+          "stream_type": "video",
+          "tags": [
+            "war",
+            "finance",
+            "economics",
+            "geopolitics",
+            "politics"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/e/7274720c632a6897.png"
+          },
+          "title": "American-Afghan Collapse Aftermath - Petrodollar In Trouble, Rise of Eurasian Trade Zone & BRI",
+          "video": {
+            "duration": 6088,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.5",
+        "canonical_url": "lbry://@MoneroMatteo#b/nature-walk-medium#0",
+        "claim_id": "0ce16e1719a60da0c8c9fcc79dd29227647483b0",
+        "claim_op": "create",
+        "confirmations": 61171,
+        "height": 1019187,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1019187,
+          "creation_height": 1019187,
+          "creation_timestamp": 1630085721,
+          "effective_amount": "0.5",
+          "expiration_height": 3121587,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1019187,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "nature-walk-medium",
+        "normalized_name": "nature-walk-medium",
+        "nout": 0,
+        "permanent_url": "lbry://nature-walk-medium#0ce16e1719a60da0c8c9fcc79dd29227647483b0",
+        "short_url": "lbry://nature-walk-medium#0",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1630085721,
+        "txid": "934ff46928a394e3c29e48143dfc0b06516bf38afee935ccc6941734fe54735e",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nToday we stroll through a trail in Ellijay Georgia. It was too beautiful a day to pass up. We discuss the current developments in Afghanistan and what this means for the Dollar, global financial markets, the new financial system, Monero and more. We talk about the necessity of creating parallel financial systems with freedom coins to secure a future of liberty! Enjoy\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1630080585",
+          "source": {
+            "hash": "d96f56d1e834c3f3b471e803afc022b6fe3525ae268888ead7cab48c452fa0401e5ed9fa376b0947e04bdc9ebaba4a20",
+            "media_type": "video/mp4",
+            "name": "nature walk medium.mp4",
+            "sd_hash": "d91684fc0317da0c650efd63546713053607493ee3463f288afa272bc8efef844c6c791ebae0031ae5025bd93ce824df",
+            "size": "3355357035"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "nature",
+            "cryptocurrency",
+            "monero",
+            "finance"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/7/4c9f8c150fb060f2.png"
+          },
+          "title": "Nature Walk - Afghanistan, De-Dollarization, Monero & More",
+          "video": {
+            "duration": 1297,
+            "height": 720,
+            "width": 1280
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.1",
+        "canonical_url": "lbry://@MoneroMatteo#b/Unrealized-Capital-Gains#0",
+        "claim_id": "0612268cc5ded1aa9c0c583d80527d627f4634cf",
+        "claim_op": "create",
+        "confirmations": 69201,
+        "height": 1011157,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1011157,
+          "creation_height": 1011157,
+          "creation_timestamp": 1628818792,
+          "effective_amount": "0.1",
+          "expiration_height": 3113557,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1011157,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Unrealized-Capital-Gains",
+        "normalized_name": "unrealized-capital-gains",
+        "nout": 0,
+        "permanent_url": "lbry://Unrealized-Capital-Gains#0612268cc5ded1aa9c0c583d80527d627f4634cf",
+        "short_url": "lbry://Unrealized-Capital-Gains#0",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1628818792,
+        "txid": "d27c5a489a5411de3aa3bb0ed0c0b240578fda629b8a05703e5e015f1eb178da",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nUnrealized Capital Gains could vitally impact the cryptocurrency markets in ways many traders and investors don't understand. Be on the lookout for this!\n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1628818521",
+          "source": {
+            "hash": "797a38bf6cc056ae4677d1f574f67a8c55d5642ce9ef36b7db304a3deac029e3a48c756cbfd920564b80950eeee2880d",
+            "media_type": "video/mp4",
+            "name": "Unrealized Capital Gains.mp4",
+            "sd_hash": "c11d6267e5c0b7d26e68af85ba33e8b667a68aaa92e32e16d92723df2b9f5ace6ff0a28d10991e9b615c26c97052848b",
+            "size": "112394066"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "education",
+            "economics",
+            "cryptocurrency",
+            "tax"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/5/dae633ffd4b136de.png"
+          },
+          "title": "Unrealized Capital Gains Taxes - A Crypto Killshot",
+          "video": {
+            "duration": 1313,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.01",
+        "canonical_url": "lbry://@MoneroMatteo#b/CRYPTO-BILL-UPDATES#0",
+        "claim_id": "0b0a8b8656664c9213f60e51e776ed94ae33f998",
+        "claim_op": "create",
+        "confirmations": 72625,
+        "height": 1007733,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1007733,
+          "creation_height": 1007733,
+          "creation_timestamp": 1628279320,
+          "effective_amount": "0.01",
+          "expiration_height": 3110133,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1007733,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "CRYPTO-BILL-UPDATES",
+        "normalized_name": "crypto-bill-updates",
+        "nout": 0,
+        "permanent_url": "lbry://CRYPTO-BILL-UPDATES#0b0a8b8656664c9213f60e51e776ed94ae33f998",
+        "short_url": "lbry://CRYPTO-BILL-UPDATES#0",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1628279320,
+        "txid": "823a0e01ce771e49e19703c82f8928789b6ddbaccb5f3ce3fe07a65cb7e606ce",
+        "type": "claim",
+        "value": {
+          "description": "The technocratic tyrannical crackdown is here. Be prepared. \n\nSubscribe and SMASH that like button! SHARE this vital information to your crypto friends! Let make this an open discussion, leave comments!\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1628278859",
+          "source": {
+            "hash": "e0c4dde7e433396e8ef684d69f9bd6474c6853109a1627449f7d665dc47c20b01b99ca9001911875c41bd35ba51a2a9b",
+            "media_type": "video/mp4",
+            "name": "CRYPTO BILL UPDATES.mp4",
+            "sd_hash": "1899106ecb2f4f3131c019b79bd840010a1318355235bdebb322134c696a41d4629f45f2af1e6f18cf4128d269e6fed1",
+            "size": "82561403"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "education",
+            "economics",
+            "politics",
+            "cryptocurrency"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/f/a3dd7c0e3afc4802.png"
+          },
+          "title": "CONFIRMED - The Assault On American Crypto Industry Is Here - Privacy Coins Take Off",
+          "video": {
+            "duration": 1166,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "2.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Medical-Mandates---Economic-Exclusion#f",
+        "claim_id": "f77fd136eb0fe8649b9bbc264c397808cb34f15e",
+        "claim_op": "create",
+        "confirmations": 53929,
+        "height": 1026429,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1026429,
+          "creation_height": 1026429,
+          "creation_timestamp": 1631237033,
+          "effective_amount": "2.0",
+          "expiration_height": 3128829,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1026429,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Medical-Mandates---Economic-Exclusion",
+        "normalized_name": "medical-mandates---economic-exclusion",
+        "nout": 0,
+        "permanent_url": "lbry://Medical-Mandates---Economic-Exclusion#f77fd136eb0fe8649b9bbc264c397808cb34f15e",
+        "short_url": "lbry://Medical-Mandates---Economic-Exclusion#f",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1631237033,
+        "txid": "3c089de98ffe883d341417f7f61d80f47fd9abfe8caf14b30bcab0e3f10f7ccd",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nThe new global financial system is coming. Digital ID, Digital Health Passports, Digital Currencies and Medical Mandates are now happening. Crypto and public blockchains are also being integrated into this new system. It is imperative that Monero and other freedom coins get adopted and implemented in a parallel economic system that allows those that are excluded from the new economic system to survive and thrive. Also discussed are the rise of black markets and the rise of shortages and inflation.\n\nTimestamps:\n\nIntro: 0:00:00\nMedical Mandates & Economic Exclusion: 0:03:20\nCrypto, Digital ID & Health Passports: 0:17:25\nBlack Markets To Boom, Inflation & Shortages: 0:24:45\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: \n496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nBitcoin (BTC) Address: \nbc1q0myje5uzrwxj7pua4em4dcaqxjmd86ptgacq9r\n\nCardano (ADA) Address: \naddr1qyy3dryd985s5gsflrazveu05fxq95rdkf8anj6k62ekqncfz6xg620fpg3qn786yenclgjvqtgxmvj0m894d54nvp8skw5sru\n\nDash (DASH) Address: \nXgqVcMKkapFNzwnTowcBWwVqz31i8JvBN5\n\nPirate Chain (ARRR) Address: \nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: \ndERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1631235154",
+          "source": {
+            "hash": "44e4fa83c8c86c0341a82aace76db2c474f877eac0ba00d85c088abab1eab56417f330bc0111b10aae6f5e390de83f17",
+            "media_type": "video/mp4",
+            "name": "Medical Mandates & Economic Exclusion.mp4",
+            "sd_hash": "1fb16cde4ebaa84bee0b0e761f7793144b49ca6eb05c774e4bd52a4ddb2c9c9affebaa00abcdb2beb4df79cc0885fb67",
+            "size": "688249058"
+          },
+          "stream_type": "video",
+          "tags": [
+            "economics",
+            "blockchain",
+            "crypto",
+            "covid-19",
+            "monero"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/a/bd5287aeecb48424.png"
+          },
+          "title": "Actually Urgent - The New Global Economic System Is Rolling In - Parallel Systems Must Be Deployed",
+          "video": {
+            "duration": 2495,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.05",
+        "canonical_url": "lbry://@MoneroMatteo#b/Crypto-War-Infrastructure-3#e",
+        "claim_id": "e152a5267104a60b9e00258e1e0013138e204c17",
+        "claim_op": "create",
+        "confirmations": 70887,
+        "height": 1009471,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1009471,
+          "creation_height": 1009471,
+          "creation_timestamp": 1628553497,
+          "effective_amount": "0.05",
+          "expiration_height": 3111871,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1009471,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Crypto-War-Infrastructure-3",
+        "normalized_name": "crypto-war-infrastructure-3",
+        "nout": 0,
+        "permanent_url": "lbry://Crypto-War-Infrastructure-3#e152a5267104a60b9e00258e1e0013138e204c17",
+        "short_url": "lbry://Crypto-War-Infrastructure-3#e",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1628553497,
+        "txid": "337fd88cfc141bd49210ad4737dc618631c8a72743330602c127f8e66bee6ad6",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Donations are accepted at the addresses below - much appreciated! Let make this an open discussion, leave comments! \n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1628553225",
+          "source": {
+            "hash": "8219758868c5fbba5cab29c27d4736b67fd87535cf5db22a14fef29d06ed944e39519b0dfd39f580111900a77c6f2696",
+            "media_type": "video/mp4",
+            "name": "Crypto War Infrastructure 3.mp4",
+            "sd_hash": "381257e8c79334f939ac0146627d4bc66b9e798ff1491edd69a5d6e00a82e48fc5751d07a4aa26d61100f3d628e24999",
+            "size": "91783208"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "education",
+            "economics",
+            "cryptocurrency",
+            "infrastructure"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/9/4aa09dd7e1dcb11f.png"
+          },
+          "title": "Infrastructure Bill Update - The Globalists Declare War on Crypto",
+          "video": {
+            "duration": 1331,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "10.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Rise-of-CBDCs-+-China-Crypto-Crackdown#6",
+        "claim_id": "66b8e64bdd4d642c28e4c08b0b4be6dcbe80e57d",
+        "claim_op": "create",
+        "confirmations": 44321,
+        "height": 1036037,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1036037,
+          "creation_height": 1036037,
+          "creation_timestamp": 1632765189,
+          "effective_amount": "10.0",
+          "expiration_height": 3138437,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1036037,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Rise-of-CBDCs-+-China-Crypto-Crackdown",
+        "normalized_name": "rise-of-cbdcs-+-china-crypto-crackdown",
+        "nout": 0,
+        "permanent_url": "lbry://Rise-of-CBDCs-+-China-Crypto-Crackdown#66b8e64bdd4d642c28e4c08b0b4be6dcbe80e57d",
+        "short_url": "lbry://Rise-of-CBDCs-+-China-Crypto-Crackdown#6",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1632765189,
+        "txid": "5514f1207ee48c5437198bc0c4c27c762b27eb4eb875b283aa2f043635352e85",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nToday we discuss the ongoing crackdowns on crypto while world central banks continue their rollout of central bank digital currencies (CBDCs). We discuss some details about these CBDCs as well as some implications for their adoption. We lastly conclude that the Monero First movement and the Freedom Coin Covenant are essential for opting out of this quickly manifesting technocratic system.\n\nIntro: 0:00:00\nChina Crypto Ban & Rise of Digital Yuan CBDC: 0:02:00\nFedcoin - US CBDC: 0:26:30\nBank of England CBDC: 0:47:25\nFederal Reserve CBDC Research & Stable Coins: 0:49:20\nCFR Report on CBDCs: 0:58:30\nConclusions & Outro: 1:02:55\n\nFollow me here:\nPodbean Podcast: https://moneromatteo.podbean.com/\nTwitter: https://twitter.com/moneromatteo\nGab: https://gab.com/GulagStag\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: https://ccs.getmonero.org/\n\nChannel Donations:\n\nMonero (XMR) Address: \n89dXS8iuGdSgAXjXA7dGjZ1P8CEtKf4A1Hb7TvsAHqAShSwNy6NngNUZgXiN9nEifw8nsMuo2uLrM9jtni4c2b8c1o7ZGM5\n\nBitcoin (BTC) Address: \nbc1q0myje5uzrwxj7pua4em4dcaqxjmd86ptgacq9r\n\nCardano (ADA) Address: \naddr1qyy3dryd985s5gsflrazveu05fxq95rdkf8anj6k62ekqncfz6xg620fpg3qn786yenclgjvqtgxmvj0m894d54nvp8skw5sru\n\nZano: ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDash (DASH) Address: \nXgqVcMKkapFNzwnTowcBWwVqz31i8JvBN5\n\nPirate Chain (ARRR) Address: \nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: \ndERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1632764537",
+          "source": {
+            "hash": "131d4eb3c2fe23a0a1831f2bc691d9f319edf830bdce1827078b82393db29af62fe71857075a25ccd66383aec37e7b43",
+            "media_type": "video/mp4",
+            "name": "Rise of CBDCs + China Crypto Crackdown.mp4",
+            "sd_hash": "ae1c25890429e592f9c1de2931243c67b7b5da296f1ab7e5885c135fbb47f494def905cb6e13062e8086c32158dcd7e2",
+            "size": "339585669"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "news",
+            "bitcoin",
+            "cryptocurrency",
+            "economics"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/1/a986e9fc6601c166.png"
+          },
+          "title": "China Cracks Down on Cryptos As Central Banks Move Forward With Digital Currencies",
+          "video": {
+            "duration": 4004,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "10.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Monero-Maximalism#6",
+        "claim_id": "61df08375a734df9ac5a2dee168e939df98fede6",
+        "claim_op": "create",
+        "confirmations": 48000,
+        "height": 1032358,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1032358,
+          "creation_height": 1032358,
+          "creation_timestamp": 1632177666,
+          "effective_amount": "10.0",
+          "expiration_height": 3134758,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1032358,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Monero-Maximalism",
+        "normalized_name": "monero-maximalism",
+        "nout": 0,
+        "permanent_url": "lbry://Monero-Maximalism#61df08375a734df9ac5a2dee168e939df98fede6",
+        "short_url": "lbry://Monero-Maximalism#6",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1632177666,
+        "txid": "ba3f74b375a76d382152ad827cd5ddd87b282f4ea5da14d4945df38e46808352",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments! \n\nToday we discuss crypto maximalist philosophy. We pose some arguments as to why the philosophy is not ideal and unnecessarily risky. Enjoy.\n\nTimestamps:\n\nIntro: 0:00:00\nDifferent Projects Do Different Things: 0:05:18\nCryptographic Uncertainties: 0:08:52\nHedging Future Infrastructure Uncertainty: 0:14:30\nOutro: 0:21:10\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nPatreon: https://www.patreon.com/moneromatteo \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: https://ccs.getmonero.org/\n\nChannel Donations:\n\nMonero (XMR) Address: \n89dXS8iuGdSgAXjXA7dGjZ1P8CEtKf4A1Hb7TvsAHqAShSwNy6NngNUZgXiN9nEifw8nsMuo2uLrM9jtni4c2b8c1o7ZGM5\n\nBitcoin (BTC) Address: \nbc1q0myje5uzrwxj7pua4em4dcaqxjmd86ptgacq9r\n\nCardano (ADA) Address: \naddr1qyy3dryd985s5gsflrazveu05fxq95rdkf8anj6k62ekqncfz6xg620fpg3qn786yenclgjvqtgxmvj0m894d54nvp8skw5sru\n\nZano: ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDash (DASH) Address: \nXgqVcMKkapFNzwnTowcBWwVqz31i8JvBN5\n\nPirate Chain (ARRR) Address: \nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: \ndERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1632177290",
+          "source": {
+            "hash": "e683fd8a4bb7f95c0209cacf7c0e8d681fdc4988aed5c885fee7bb342f84ee92e93b8bffa71d749ba6ea37e33d107b60",
+            "media_type": "video/mp4",
+            "name": "Monero Maximalism.mp4",
+            "sd_hash": "1ba586be33e81a23936a04c4992a8a362f9762ece81bd1d8b68a38ba782974fae075bfbefe656fc80e3d12ab0f328e66",
+            "size": "470738087"
+          },
+          "stream_type": "video",
+          "tags": [
+            "economics",
+            "science",
+            "technology",
+            "cryptocurrency",
+            "monero"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/4/70a21527117ace5b.png"
+          },
+          "title": "Why I'm Not A Crypto Maximalist",
+          "video": {
+            "duration": 1381,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.2",
+        "canonical_url": "lbry://@MoneroMatteo#b/Evolution---Intelligent-Design#5",
+        "claim_id": "50545fdde3a0268350429f865038c0582e0a77b0",
+        "claim_op": "create",
+        "confirmations": 65810,
+        "height": 1014548,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1014548,
+          "creation_height": 1014548,
+          "creation_timestamp": 1629349731,
+          "effective_amount": "0.2",
+          "expiration_height": 3116948,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1014548,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Evolution---Intelligent-Design",
+        "normalized_name": "evolution---intelligent-design",
+        "nout": 0,
+        "permanent_url": "lbry://Evolution---Intelligent-Design#50545fdde3a0268350429f865038c0582e0a77b0",
+        "short_url": "lbry://Evolution---Intelligent-Design#5",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1629349731,
+        "txid": "956f02a2cc68dd96efaa89a432ee20fc3dc2548883e014c94a06488e7d3770a4",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE if you found value in this video! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments!\n\nTimestamps:\n\n0:00:00 - Intro\n0:05:45 - Orthodoxy & Evolution\n0:15:55 - Scripture & Science\n0:25:15 - Freedom & Evolution - The Constructal Law\n1:18:00 - Closing Comments\n\n\nOur first patron and great friend of the community Josh requested a video on Intelligent Design and Evolution. Here we dig in deep to our take on the debate, Orthodoxy, Monero, Life, Environmentalism, Christ and many other subjects. \n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\n\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1629349493",
+          "source": {
+            "hash": "047e8c8b88f2cd1a0e972fe2dee11dafaef485d32faa8744acd4b281776d890de09779b76059d15bc46630c153742b01",
+            "media_type": "video/mp4",
+            "name": "Evolution & Intelligent Design.mp4",
+            "sd_hash": "5c2c85c170e14376b946f4c7880c417f3c4b3bcf9f5e3851fc72cc60ae0fdb9a395008fca46026453a98d431767f5b11",
+            "size": "427350835"
+          },
+          "stream_type": "video",
+          "tags": [
+            "christianity",
+            "christ",
+            "evolution",
+            "philosophy",
+            "crypto"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/1/a024631ce3529d88.png"
+          },
+          "title": "Patron Request - Thoughts On Evolution & Intelligent Design - Relation To Orthodoxy, Monero, & More",
+          "video": {
+            "duration": 5598,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.01",
+        "canonical_url": "lbry://@MoneroMatteo#b/Sunday-Stream---Christ-Is-The-True-Lifeboat#4",
+        "claim_id": "4be9b83c0cdcab7dbe68f9b106bdf865f9db3258",
+        "claim_op": "create",
+        "confirmations": 73167,
+        "height": 1007191,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1007191,
+          "creation_height": 1007191,
+          "creation_timestamp": 1628193602,
+          "effective_amount": "0.01",
+          "expiration_height": 3109591,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1007191,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Sunday-Stream---Christ-Is-The-True-Lifeboat",
+        "normalized_name": "sunday-stream---christ-is-the-true-lifeboat",
+        "nout": 0,
+        "permanent_url": "lbry://Sunday-Stream---Christ-Is-The-True-Lifeboat#4be9b83c0cdcab7dbe68f9b106bdf865f9db3258",
+        "short_url": "lbry://Sunday-Stream---Christ-Is-The-True-Lifeboat#4",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1628193602,
+        "txid": "8224692d0d862d6c25e9edf6446000bb68e0a4f19d22193ef5fffaa615315853",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Let make this an open discussion, leave comments!\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1628193113",
+          "source": {
+            "hash": "8c2f3ad9df0877ddee3dafb539eeb59a1fc5dc75d9761801a198a980aec4e32bd9743248698804fb0ee3fc3fdb288e83",
+            "media_type": "video/mp4",
+            "name": "Sunday Stream - Christ Is The True Lifeboat.mp4",
+            "sd_hash": "2e05422e585908eb22fe7f343f64573c132d8e5bc75b5c659349ace25d36b728d884b9b1adcef9b4a11ff43721442883",
+            "size": "345863938"
+          },
+          "stream_type": "video",
+          "tags": [
+            "christianity",
+            "jesus",
+            "orthodoxy",
+            "christ",
+            "sunday"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/0/285c00c34dfa270e.png"
+          },
+          "title": "Sunday Stream 1 - Christ Is The True Lifeboat",
+          "video": {
+            "duration": 3154,
+            "height": 512,
+            "width": 908
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "0.01",
+        "canonical_url": "lbry://@MoneroMatteo#b/shortages-blackmarkets-privacycoins#6",
+        "claim_id": "66c05fd49e34b246693f0b204c992df25cbcabbc",
+        "claim_op": "create",
+        "confirmations": 73184,
+        "height": 1007174,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1007174,
+          "creation_height": 1007174,
+          "creation_timestamp": 1628190700,
+          "effective_amount": "0.01",
+          "expiration_height": 3109574,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1007174,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "shortages-blackmarkets-privacycoins",
+        "normalized_name": "shortages-blackmarkets-privacycoins",
+        "nout": 0,
+        "permanent_url": "lbry://shortages-blackmarkets-privacycoins#66c05fd49e34b246693f0b204c992df25cbcabbc",
+        "short_url": "lbry://shortages-blackmarkets-privacycoins#6",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1628190700,
+        "txid": "dd4e9c6bc63c4abf821c0e09c23848b298d5e287ec939dd079b351b1018eb281",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your crypto friends! Let make this an open discussion, leave comments!\n\nFollow me here:\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\n\nInquiries: \nEmail: moneromatteo@gmail.com\n\nDonations:\n\nMonero (XMR) Address: 496yuykuzWWMiu4UQjqunc9ir398hn9YX3WneVrTUbCS7EisPPLMxZs6dHDt9FRiMD7rV4ohSuRQRGoGbUbaYdTmUkH8AP9\n\nPirate Chain (ARRR) Address: zs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1628190444",
+          "source": {
+            "hash": "d3b3ae4d0370862a41c6cf6d7c94f7d9c940937b38cecf6d5a71789bb4476e03a7c5f2a91f4023d21d25d38612cc967e",
+            "media_type": "video/x-matroska",
+            "name": "BLACK MARKETS AND MONERO.mkv",
+            "sd_hash": "37ed7e63b0ec3032ee80bb5d3e55ad0bbd1d085677fb94ba771c017ae29817338010810c08e7e396afbf7cf7d33136b0",
+            "size": "180909753"
+          },
+          "stream_type": "video",
+          "tags": [
+            "economics",
+            "blockchain",
+            "education",
+            "cryptocurrency",
+            "finance"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/a/620d036073578f72.png"
+          },
+          "title": "Shortages Are Coming - Black Markets To Boom - Privacy Coins To Go Nuclear",
+          "video": {
+            "duration": 2584
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "9.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Monero-News-11-11-Transaction-Volume-ATH#1",
+        "claim_id": "16ef6d0a732958abccb0babdc69bd64efdc2a0cc",
+        "claim_op": "create",
+        "confirmations": 19780,
+        "height": 1060578,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1060578,
+          "creation_height": 1060578,
+          "creation_timestamp": 1636669341,
+          "effective_amount": "9.0",
+          "expiration_height": 3162978,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1060578,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Monero-News-11-11-Transaction-Volume-ATH",
+        "normalized_name": "monero-news-11-11-transaction-volume-ath",
+        "nout": 0,
+        "permanent_url": "lbry://Monero-News-11-11-Transaction-Volume-ATH#16ef6d0a732958abccb0babdc69bd64efdc2a0cc",
+        "short_url": "lbry://Monero-News-11-11-Transaction-Volume-ATH#1",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1636669341,
+        "txid": "cb7b2cac0b13270eefee4d73dc7df15a9ed613420eee85c20023761266264477",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments!\n\nToday we discuss positive developments in Monero Land. Transaction volumes have hit a new all time high while there are new positive elements being developed for the protocol. We also give a brief update on short and long positions and discuss the virtue of patience. Enjoy!\n\nFollow us here:\nPodbean Podcast: https://moneromatteo.podbean.com/\nTwitter: https://twitter.com/moneromatteo\nGab: https://gab.com/GulagStag\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nInstagram: https://www.instagram.com/moneromatteo/\nPatreon: https://www.patreon.com/moneromatteo\n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: \nhttps://ccs.getmonero.org/\n\nChannel Donations:\n\nhttps://www.paypal.com/paypalme/moner..\n.\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address (Donations & Messages):\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nHaven (XHV) Address: hvxyFRva7mtcwMFxbcEBpR7D1A6b4CZKHCrKDh2kVo4oXUDWFTJT6qXS7Q62reeXNGgLc6Yx8HUEF8xMMaDaVCoa7oSMHB3xfk\n\nBitcoin (BTC) Address:\nbc1q9j04qlranjpahee3jtk0f3c3uxwy9qrjuqn8tw\n\nConceal Network (Donations & Messages):\nccx7KNnFewuP6h3mHgJgr3eub22Cd138CSqCUWDsHfpCJ3o7tTUoBCDfh6vwAmF8W5MGJSRfguQq63gqp4J2MzvZ3zmdniz5ex\n\nZano (Donations & Messages): ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDero (DERO) Address:\ndERoWmBqpDFEwQA4E5nrcaabA3VPzJkVngwDzKgcbjWu9cP5mFehit8h1mhVjQ6tCuCEXoyaxS9yzdtJgXKUrMKy16GzcDedRc",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1636669060",
+          "source": {
+            "hash": "354a54626e66032ea2208304e2e4f09373cbf7dbaf3f8011dc3138df1347cc4fd4f144279f07085b8413a83e6f6bd177",
+            "media_type": "video/mp4",
+            "name": "Monero News 11-11 Transaction Volume ATH.mp4",
+            "sd_hash": "8bf91a3ec9736a8d3fa87728ee425c92ecd8c5c034f171a04bc80125e67e98d29569b553a9c87c27544edbed21a7c134",
+            "size": "209431925"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "news",
+            "cryptocurrency",
+            "technology",
+            "science"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/8/d89cc1ec5d789a36.png"
+          },
+          "title": "Monero Transaction Volumes Hit ALL TIME HIGH! | PLUS Positive Monero Developments Continue",
+          "video": {
+            "duration": 669,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "10.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Europe-To-BAN-Proof-of-Work-Mining#2",
+        "claim_id": "26c3887e14b4324efa08f4222cdbfef17bbf2b9d",
+        "claim_op": "create",
+        "confirmations": 20183,
+        "height": 1060175,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1060175,
+          "creation_height": 1060175,
+          "creation_timestamp": 1636605359,
+          "effective_amount": "10.0",
+          "expiration_height": 3162575,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1060175,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Europe-To-BAN-Proof-of-Work-Mining",
+        "normalized_name": "europe-to-ban-proof-of-work-mining",
+        "nout": 0,
+        "permanent_url": "lbry://Europe-To-BAN-Proof-of-Work-Mining#26c3887e14b4324efa08f4222cdbfef17bbf2b9d",
+        "short_url": "lbry://Europe-To-BAN-Proof-of-Work-Mining#2",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1636605359,
+        "txid": "f8f0be7cedf915229a85c6a71b358da6a8f0278a6d506fd4ca2b4634170163f5",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments!\n\nToday we discuss a proposal from Sweden to have the EU ban proof-of-work mining over environmental concerns. We discuss why it looks like proof-of-stake currencies have an advantage over proof-of-work currencies for institutional adoption. We explore the implications for some of our favorite privacy coins: Monero and Zano. Enjoy.\n\nTimestamps\n\nIntro: 0:00:00\nEU Proposal To Ban Proof-of-Work Mining: 0:03:15\n\"Bitcoin's Massive Risk!\": 0:19:00\nPrivate Proof-of-Stake With Zano: 0:28:20\nConclusions & Outro: 0:30:45\n\nFollow us here:\nPodbean Podcast: https://moneromatteo.podbean.com/\nTwitter: https://twitter.com/moneromatteo\nGab: https://gab.com/GulagStag\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nInstagram: https://www.instagram.com/moneromatteo/\nPatreon: https://www.patreon.com/moneromatteo\n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: \nhttps://ccs.getmonero.org/\n\nChannel Donations:\n\nhttps://www.paypal.com/paypalme/moner..\n.\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address (Donations & Messages):\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nHaven (XHV) Address: hvxyFRva7mtcwMFxbcEBpR7D1A6b4CZKHCrKDh2kVo4oXUDWFTJT6qXS7Q62reeXNGgLc6Yx8HUEF8xMMaDaVCoa7oSMHB3xfk\n\nBitcoin (BTC) Address:\nbc1q9j04qlranjpahee3jtk0f3c3uxwy9qrjuqn8tw\n\nConceal Network (Donations & Messages):\nccx7KNnFewuP6h3mHgJgr3eub22Cd138CSqCUWDsHfpCJ3o7tTUoBCDfh6vwAmF8W5MGJSRfguQq63gqp4J2MzvZ3zmdniz5ex\n\nZano (Donations & Messages): ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDero (DERO) Address:\ndERoWmBqpDFEwQA4E5nrcaabA3VPzJkVngwDzKgcbjWu9cP5mFehit8h1mhVjQ6tCuCEXoyaxS9yzdtJgXKUrMKy16GzcDedRc",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1636604884",
+          "source": {
+            "hash": "a54aacedb27f7f48c0926e3c2e7c84f010db4f5e6256be7acf7ce0e8dfe4a22031c50234f64a1c1d2bb1585e7d9a973d",
+            "media_type": "video/mp4",
+            "name": "Europe To BAN Proof-of-Work Mining.mp4",
+            "sd_hash": "ed58f53445a04989cd3163303fe140f209927f202c4b80b9b6baec01f84c86703c4e9fe1c9794fd516712aa20e075ad6",
+            "size": "610861055"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "technology",
+            "economics",
+            "bitcoin",
+            "politics"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/9/c683ce887d7891df.png"
+          },
+          "title": "Europe To BAN Bitcoin Mining?! ",
+          "video": {
+            "duration": 1960,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "15.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Global-Climate-Economic-Revolution---11-10#9",
+        "claim_id": "9c90ec1686657b570704702139df1e09b3e0f466",
+        "claim_op": "create",
+        "confirmations": 20331,
+        "height": 1060027,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1060027,
+          "creation_height": 1060027,
+          "creation_timestamp": 1636581888,
+          "effective_amount": "15.0",
+          "expiration_height": 3162427,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1060027,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Global-Climate-Economic-Revolution---11-10",
+        "normalized_name": "global-climate-economic-revolution---11-10",
+        "nout": 0,
+        "permanent_url": "lbry://Global-Climate-Economic-Revolution---11-10#9c90ec1686657b570704702139df1e09b3e0f466",
+        "short_url": "lbry://Global-Climate-Economic-Revolution---11-10#9",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1636581888,
+        "txid": "fefd38a3565e369d07c3adf595baa3cc75210347f561c7524dabafe87ddd0402",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments!\n\nToday we discuss the increasing steam begin gained by climate revolution to initiate a \"grand reset\" of the global economic order and how this will compound current trends of inflation, surveillance, supply-chain issues and more. We discuss how Monero will benefit from these trends.\n\nTimestamps\n\nIntro: 0:00:00\n$150 Trillion Price Tag For Climate War: 0:03:30\nGlobal Climate Surveillance Establishment: 0:24:30\nAmerican Assult on Energy Sector: 0:31:25\nSoaring Inflation, Price Controls & Black Market Expansion: 0:40:15\n70% of Americans Anxious About Climate Change: 0:48:40\nConclusions & Outro: 0:51:30\n\nFollow us here:\nPodbean Podcast: https://moneromatteo.podbean.com/\nTwitter: https://twitter.com/moneromatteo\nGab: https://gab.com/GulagStag\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nInstagram: https://www.instagram.com/moneromatteo/\nPatreon: https://www.patreon.com/moneromatteo\n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: \nhttps://ccs.getmonero.org/\n\nChannel Donations:\n\nhttps://www.paypal.com/paypalme/moner..\n.\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address (Donations & Messages):\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nHaven (XHV) Address: hvxyFRva7mtcwMFxbcEBpR7D1A6b4CZKHCrKDh2kVo4oXUDWFTJT6qXS7Q62reeXNGgLc6Yx8HUEF8xMMaDaVCoa7oSMHB3xfk\n\nBitcoin (BTC) Address:\nbc1q9j04qlranjpahee3jtk0f3c3uxwy9qrjuqn8tw\n\nConceal Network (Donations & Messages):\nccx7KNnFewuP6h3mHgJgr3eub22Cd138CSqCUWDsHfpCJ3o7tTUoBCDfh6vwAmF8W5MGJSRfguQq63gqp4J2MzvZ3zmdniz5ex\n\nZano (Donations & Messages): ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDero (DERO) Address:\ndERoWmBqpDFEwQA4E5nrcaabA3VPzJkVngwDzKgcbjWu9cP5mFehit8h1mhVjQ6tCuCEXoyaxS9yzdtJgXKUrMKy16GzcDedRc",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1636580391",
+          "source": {
+            "hash": "94a0a1c08ab8b315e3dd7c76b16c9652dec1021f0bbaf7d3b950a5caeb814c5106e3c24fd03c87a342bd58758696ea76",
+            "media_type": "video/mp4",
+            "name": "Global Climate Economic Revolution - 11-10.mp4",
+            "sd_hash": "b4cab1adfa2828318857e692a112f8e67caea3539084a76fc6d77f31e4caa398d294124064069f051b8db5db872a0ef1",
+            "size": "1159743875"
+          },
+          "stream_type": "video",
+          "tags": [
+            "blockchain",
+            "economics",
+            "bitcoin",
+            "cryptocurrency",
+            "science"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/4/6e4ae538e6f02793.png"
+          },
+          "title": "Environmental ESG Economic Conquest - Why Monero Adoption Will SOAR As Global Finance Goes Green",
+          "video": {
+            "duration": 3675,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      },
+      {
+        "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+        "amount": "5.0",
+        "canonical_url": "lbry://@MoneroMatteo#b/Monero-News---11-9#5",
+        "claim_id": "5bc2ce01a558b5aa5579e8fe20df7a32ab6141fd",
+        "claim_op": "create",
+        "confirmations": 20756,
+        "height": 1059602,
+        "is_channel_signature_valid": true,
+        "meta": {
+          "activation_height": 1059602,
+          "creation_height": 1059602,
+          "creation_timestamp": 1636513200,
+          "effective_amount": "5.0",
+          "expiration_height": 3162002,
+          "is_controlling": true,
+          "reposted": 0,
+          "support_amount": "0.0",
+          "take_over_height": 1059602,
+          "trending_global": 0.0,
+          "trending_group": 0,
+          "trending_local": 0.0,
+          "trending_mixed": 0.0
+        },
+        "name": "Monero-News---11-9",
+        "normalized_name": "monero-news---11-9",
+        "nout": 0,
+        "permanent_url": "lbry://Monero-News---11-9#5bc2ce01a558b5aa5579e8fe20df7a32ab6141fd",
+        "short_url": "lbry://Monero-News---11-9#5",
+        "signing_channel": {
+          "address": "bVuhkGfZwDgw1gVU27jKfiTFnexGyEJomp",
+          "amount": "1.0",
+          "canonical_url": "lbry://@MoneroMatteo#b",
+          "claim_id": "b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "claim_op": "update",
+          "confirmations": 20971,
+          "has_signing_key": false,
+          "height": 1059387,
+          "meta": {
+            "activation_height": 1059387,
+            "claims_in_channel": 99,
+            "creation_height": 1003932,
+            "creation_timestamp": 1627674645,
+            "effective_amount": "30001.7",
+            "expiration_height": 3161787,
+            "is_controlling": true,
+            "reposted": 0,
+            "support_amount": "30000.7",
+            "take_over_height": 1003932,
+            "trending_global": 0.0,
+            "trending_group": 0,
+            "trending_local": 0.0,
+            "trending_mixed": 0.0
+          },
+          "name": "@MoneroMatteo",
+          "normalized_name": "@moneromatteo",
+          "nout": 0,
+          "permanent_url": "lbry://@MoneroMatteo#b039e810fb2a008f9af3d4f3eb61fe72e73480b4",
+          "short_url": "lbry://@MoneroMatteo#b",
+          "timestamp": 1636478320,
+          "txid": "af7771b698b426d88d403bfcda63264313638a37eb43d0ee2e12f9a3522ad234",
+          "type": "claim",
+          "value": {
+            "cover": {
+              "url": "https://spee.ch/d/443be5d73e218c10.png"
+            },
+            "description": "I\u2018m Matteo. We love Christ and Crypto!\n\nThe home of #MoneroFirst and The Freedom Coin Covenant.\n\nI am an accountant that comments on developments in the promising freedom coin sector, current events, philosophy, Christianity and other interesting topics.\n\nI\u2018m not a financial advisor/professional and none of my videos are to be construed as financial advice.\n\nFollow me at -\nGab: https://gab.com/GulagStag\nTwitter: https://twitter.com/moneromatteo\nOdysee: https://odysee.com/@MoneroMatteo:b\nPatreon: https://www.patreon.com/moneromatteo\n\nEmail: Moneromatteo@protonmail.com - Contact for marketing, accounting services, crypto consulting or out of love =)\n\nDonations:\n\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address:\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nDero (DERO) Address: dERodeckb1Yj7p5yvx9nQMbnistq9hoHSCjMPnCpp7Y7BzpsYwicvwc6d3R7CebEL6Y2u4Xvw2vQgiJ18gysYtTM2B4Y6jsa4K",
+            "email": "moneromatteo@gmail.com",
+            "languages": [
+              "en"
+            ],
+            "public_key": "3056301006072a8648ce3d020106052b8104000a03420004796274a5df2cc7303ea24363f428fc5efb47778e8fb346d0e0493155c2e7e4e50df76c8ecedaa6b82d52d973bae6815509743815bc9fc6dbaeee1989f99e5cc3",
+            "public_key_id": "bSoGQpEU5agGBrN7fDQqUWiTqR3jbeYPjV",
+            "tags": [
+              "accounting",
+              "blockchain",
+              "education",
+              "monero",
+              "taxes"
+            ],
+            "thumbnail": {
+              "url": "https://spee.ch/9/83d238613b3646c0.png"
+            },
+            "title": "Monero Matteo",
+            "website_url": "https://gab.com/GulagStag"
+          },
+          "value_type": "channel"
+        },
+        "timestamp": 1636513200,
+        "txid": "e4d5df024c363aa9acc5f9bbf78795d902aff0ef1b04b76b35512624055cffb8",
+        "type": "claim",
+        "value": {
+          "description": "Subscribe and SMASH that like button! SHARE this vital information to your friends! Donations are accepted at the addresses below - much appreciated! Let's make this an open discussion, leave comments!\n\nToday we have a short update on some new positive developments in Monero. We discuss more adoption successes, a Bitcoin Core developer endorsing tail emission and more. Enjoy\n\nFollow us here:\nPodbean Podcast: https://moneromatteo.podbean.com/\nTwitter: https://twitter.com/moneromatteo\nGab: https://gab.com/GulagStag\nOdysee: https://odysee.com/@MoneroMatteo:b\nRumble: Monero Matteo (not sure of link)\nTelegram: https://t.me/thegulagstag\nInstagram: https://www.instagram.com/moneromatteo/\nPatreon: https://www.patreon.com/moneromatteo\n\nThis is NOT Financial Advice - I am NOT a financial professional.\n\nInquiries:\nEmail: Moneromatteo@protonmail.com\n\nDonate To Support Monero Projects Here: \nhttps://ccs.getmonero.org/\n\nChannel Donations:\n\nhttps://www.paypal.com/paypalme/moner..\n.\nMonero (XMR) Address:\n43wfUNetos1NBGLRy9SsEZAeWc7A7qiAuVfNk9F44bnWYcYcVU89yz4fXN7dNSqhCofV9XgwYPzwdjWUP4AxqAKjNevGJqu\n\nPirate Chain (ARRR) Address (Donations & Messages):\nzs1nry5gmhuhhletfsfdkgr9pknng0a8rwre94lh3tzewmkknac4hz8kpq4uvdy3784h46t2vcpzqf\n\nHaven (XHV) Address: hvxyFRva7mtcwMFxbcEBpR7D1A6b4CZKHCrKDh2kVo4oXUDWFTJT6qXS7Q62reeXNGgLc6Yx8HUEF8xMMaDaVCoa7oSMHB3xfk\n\nBitcoin (BTC) Address:\nbc1q9j04qlranjpahee3jtk0f3c3uxwy9qrjuqn8tw\n\nConceal Network (Donations & Messages):\nccx7KNnFewuP6h3mHgJgr3eub22Cd138CSqCUWDsHfpCJ3o7tTUoBCDfh6vwAmF8W5MGJSRfguQq63gqp4J2MzvZ3zmdniz5ex\n\nZano (Donations & Messages): ZxDUz7MzXPWjMfi8Tb65aP5K4iwqE9WoTMXvj8J3PpuNaV7PVSPPgewXFnp4UU7rc99HvtHavuyrV3fhAmtNhHtj2wcy4H92y\n\nDero (DERO) Address:\ndERoWmBqpDFEwQA4E5nrcaabA3VPzJkVngwDzKgcbjWu9cP5mFehit8h1mhVjQ6tCuCEXoyaxS9yzdtJgXKUrMKy16GzcDedRc",
+          "languages": [
+            "en"
+          ],
+          "license": "None",
+          "release_time": "1636512540",
+          "source": {
+            "hash": "707baab8fa49fc6c631eb9a990113032dab4fdb3c0c6cb2e4d1435f5144c0f36f63cdb54141d5590bcd900fa1a21b025",
+            "media_type": "video/mp4",
+            "name": "Monero News - 11-9.mp4",
+            "sd_hash": "a385cc169d49ae4b1e0d12e55e7972f37e3592d9c33bd2d9cb4b1419f7ebb1955c13771577cfbef86c895ff1375f1733",
+            "size": "235479924"
+          },
+          "stream_type": "video",
+          "tags": [
+            "cryptocurrency",
+            "crypto",
+            "blockchain",
+            "bitcoin",
+            "news"
+          ],
+          "thumbnail": {
+            "url": "https://spee.ch/8/7c94015b5450f877.png"
+          },
+          "title": "Monero News - Bitcoin Core Developer ENDORSES Monero-Like Tail Emission?",
+          "video": {
+            "duration": 895,
+            "height": 1080,
+            "width": 1920
+          }
+        },
+        "value_type": "stream"
+      }
+    ],
+    "page": 1,
+    "page_size": 20,
+    "total_items": 99,
+    "total_pages": 5
+  }
+}

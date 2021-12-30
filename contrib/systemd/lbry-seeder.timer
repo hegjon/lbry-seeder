@@ -1,0 +1,10 @@
+[Unit]
+Description=LBRY seeder
+After=network-online.target
+
+[Timer]
+OnUnitInactiveSec=10min
+Unit=lbry-seeder.service
+
+[Install]
+WantedBy=timers.target

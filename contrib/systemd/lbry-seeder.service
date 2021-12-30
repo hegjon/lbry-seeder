@@ -1,0 +1,14 @@
+[Unit]
+Description=LBRY seeder
+Wants=lbrynet.service
+
+[Service]
+Type=oneshot
+User=lbry-seeder
+Group=lbry-seeder
+RemainAfterExit=no
+
+ExecStart=/usr/bin/lbry-seeder /etc/lbry-seeder.conf
+
+[Install]
+Also=zegeba-backup-hourly.timer
