@@ -8,6 +8,7 @@ URL:        https://github.com/hegjon/lbry-seeder
 VCS:        {{{ git_vcs }}}
 
 Source:     {{{ git_pack }}}
+BuildArch: noarch
 
 BuildRequires: clojure
 Requires(pre): shadow-utils
@@ -16,7 +17,9 @@ BuildRequires: systemd systemd-rpm-macros
 %{?systemd_requires}
 
 %description
-%{summary}.
+LBRY seeder contains script for downloading new content from channel defined \
+by the user. Includes init script for running a dedicated lbrynet instance and \
+cron jobs for checking new content.
 
 %prep
 {{{ git_setup_macro }}}
@@ -48,7 +51,8 @@ exit 0
 
 %postun
 %systemd_postun_with_restart lbrynet.service
-%systemd_postun lbry-seeder.service #cron-job, no restart
+#cronjob, no need to restart
+%systemd_postun lbry-seeder.service
 %systemd_postun lbry-seeder.timer
 
 %files
