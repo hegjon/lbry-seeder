@@ -1,6 +1,8 @@
 # lbry-seeder
 
-FIXME: description
+[![Copr build status](https://copr.fedorainfracloud.org/coprs/jonny/LBRY/package/lbry-seeder/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/jonny/LBRY/package/lbry-seeder/)
+
+Built on Fedora Copr at https://copr.fedorainfracloud.org/coprs/jonny/LBRY/
 
 ## Installation
 
