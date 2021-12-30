@@ -5,7 +5,7 @@
 
 (deftest a-test
   (testing "Sample fixture"
-    (let [content (slurp "test/lbry_seeder/test.json")]
+    (let [content (slurp "test/lbry_seeder/claim-search-response.json")]
       (is (= (urls content)
            ["lbry://@MoneroMatteo#b/nature-walk-salvation-tribu---medium#f"
             "lbry://@MoneroMatteo#b/Tax-AI-Blockchain#f"
