@@ -9,7 +9,7 @@ VCS:     {{{ git_vcs }}}
 Source:  {{{ git_pack }}}
 
 BuildArch: noarch
-BuildRequires: clojure
+BuildRequires: maven
 Requires(pre): shadow-utils
 
 BuildRequires: systemd systemd-rpm-macros
