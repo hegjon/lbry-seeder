@@ -4,6 +4,20 @@
 
 Built on Fedora Copr at https://copr.fedorainfracloud.org/coprs/jonny/LBRY/
 
+## Requirements
+
+  * Maven for building
+  * lbrynet or the desktop application for interaction
+
+## Development
+
+Running Maven
+
+    $ mvn package
+
+Will produce a jar file under target containing the clojure code and .class files.
+
+
 ## Installation
 
 WIP
