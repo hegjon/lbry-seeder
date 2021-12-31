@@ -52,7 +52,7 @@
         <configuration>
             <archive>
                 <manifest>
-                    <mainClass>lbry-seeder.core</mainClass>
+                    <mainClass>lbry_seeder.core</mainClass>
                 </manifest>
             </archive>
         </configuration>
