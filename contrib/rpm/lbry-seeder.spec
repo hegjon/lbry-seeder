@@ -9,6 +9,9 @@ VCS:     {{{ git_vcs }}}
 Source:  {{{ git_pack }}}
 
 BuildArch: noarch
+
+Requires: java-headless
+
 BuildRequires: maven
 Requires(pre): shadow-utils
 
@@ -24,9 +27,11 @@ cron jobs for checking new content.
 {{{ git_setup_macro }}}
 
 %build
+mvn package
 #nothing yet
 
 %install
+install -Dm 644 target/*.jar %{buildroot}%{_javadir}/%{name}/%{name}-%{version}.jar
 install -Dm 644 contrib/systemd/lbrynet.service %{buildroot}/%{_unitdir}/lbrynet.service
 install -Dm 644 contrib/systemd/lbry-seeder.service %{buildroot}/%{_unitdir}/lbry-seeder.service
 install -Dm 644 contrib/systemd/lbry-seeder.timer %{buildroot}/%{_unitdir}/lbry-seeder.timer
@@ -58,6 +63,7 @@ exit 0
 %doc README.md
 %doc CHANGELOG.md
 %license LICENSE
+%{_javadir}/%{name}
 %{_unitdir}/lbrynet.service
 %{_unitdir}/lbry-seeder.service
 %{_unitdir}/lbry-seeder.timer
