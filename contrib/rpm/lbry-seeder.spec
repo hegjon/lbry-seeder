@@ -42,6 +42,8 @@ install -Dm 644 contrib/systemd/lbry-seeder.timer %{buildroot}%{_unitdir}/lbry-s
 # startup script
 %jpackage_script lbry_seeder.core "" "" lbry-seeder %{name} false
 
+install -Ddm 750 %{buildroot}%{_sharedstatedir}/lbry-seeder
+
 %pre
 getent group lbry-seeder >/dev/null || groupadd -r lbry-seeder
 getent passwd lbry-seeder >/dev/null || \
@@ -74,6 +76,7 @@ exit 0
 %{_unitdir}/lbrynet.service
 %{_unitdir}/lbry-seeder.service
 %{_unitdir}/lbry-seeder.timer
+%{_sharedstatedir}/lbry-seeder
 
 %changelog
 {{{ git_changelog }}}
