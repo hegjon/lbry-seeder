@@ -12,6 +12,7 @@ BuildArch: noarch
 
 Requires: java-headless
 Requires: javapackages-tools
+BuildRequires: javapackages-tools
 
 BuildRequires: maven
 Requires(pre): shadow-utils
@@ -34,9 +35,9 @@ mvn dependency:copy-dependencies
 %install
 install -Dm 644 target/*.jar %{buildroot}%{_javadir}/%{name}/%{name}-%{version}.jar
 install -Dm 644 target/dependency/*.jar %{buildroot}%{_javadir}/%{name}/
-install -Dm 644 contrib/systemd/lbrynet.service %{buildroot}/%{_unitdir}/lbrynet.service
-install -Dm 644 contrib/systemd/lbry-seeder.service %{buildroot}/%{_unitdir}/lbry-seeder.service
-install -Dm 644 contrib/systemd/lbry-seeder.timer %{buildroot}/%{_unitdir}/lbry-seeder.timer
+install -Dm 644 contrib/systemd/lbrynet.service %{buildroot}%{_unitdir}/lbrynet.service
+install -Dm 644 contrib/systemd/lbry-seeder.service %{buildroot}%{_unitdir}/lbry-seeder.service
+install -Dm 644 contrib/systemd/lbry-seeder.timer %{buildroot}%{_unitdir}/lbry-seeder.timer
 
 # startup script
 %jpackage_script lbry_seeder.core "" "" lbry-seeder %{name} false
