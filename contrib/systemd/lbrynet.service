@@ -14,6 +14,11 @@ ExecStop=/usr/bin/lbrynet stop
 ExecStart=/usr/bin/lbrynet start \
   --config /etc/lbry-seeder/lbrynet.yml
 
+ProtectSystem=full
+ProtectHome=true
+StateDirectory=/var/lib/lbry-seeder
+StateDirectoryMode=0750
+ConfigurationDirectory=/etc/lbry-seeder/
 
 [Install]
 WantedBy=multi-user.target
