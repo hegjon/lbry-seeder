@@ -10,7 +10,8 @@ Restart=on-failure
 RestartSec=30s
 TimeoutStopSec=300s
 
-ExecStart=/usr/bin/lbrynet
+ExecStart=/usr/bin/lbrynet start \
+  --config /etc/lbry-seeder/lbrynet.yml
 
 [Install]
 WantedBy=multi-user.target

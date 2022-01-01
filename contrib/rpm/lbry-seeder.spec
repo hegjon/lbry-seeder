@@ -44,6 +44,9 @@ install -Dm 644 contrib/systemd/lbry-seeder.timer %{buildroot}%{_unitdir}/lbry-s
 
 install -Ddm 750 %{buildroot}%{_sharedstatedir}/lbry-seeder
 
+install -Ddm 755 %{buildroot}%{_sysconfdir}/lbry-seeder
+install -m 644 contrib/lbrynet.yml %{buildroot}%{_sysconfdir}/lbry-seeder/lbrynet.yml
+
 %pre
 getent group lbry-seeder >/dev/null || groupadd -r lbry-seeder
 getent passwd lbry-seeder >/dev/null || \
@@ -71,6 +74,7 @@ exit 0
 %doc README.md
 %doc CHANGELOG.md
 %license LICENSE
+%{_sysconfdir}/lbry-seeder
 %{_bindir}/%{name}
 %{_javadir}/%{name}
 %{_unitdir}/lbrynet.service
