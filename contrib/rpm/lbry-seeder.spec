@@ -11,6 +11,7 @@ Source:  {{{ git_pack }}}
 BuildArch: noarch
 
 Requires: java-headless
+Requires: javapackages-tools
 
 BuildRequires: maven
 Requires(pre): shadow-utils
@@ -36,6 +37,9 @@ install -Dm 644 target/dependency/*.jar %{buildroot}%{_javadir}/%{name}/
 install -Dm 644 contrib/systemd/lbrynet.service %{buildroot}/%{_unitdir}/lbrynet.service
 install -Dm 644 contrib/systemd/lbry-seeder.service %{buildroot}/%{_unitdir}/lbry-seeder.service
 install -Dm 644 contrib/systemd/lbry-seeder.timer %{buildroot}/%{_unitdir}/lbry-seeder.timer
+
+# startup script
+%jpackage_script lbry_seeder.core "" "" lbry-seeder %{name} false
 
 %pre
 getent group lbry-seeder >/dev/null || groupadd -r lbry-seeder
@@ -64,6 +68,7 @@ exit 0
 %doc README.md
 %doc CHANGELOG.md
 %license LICENSE
+%{_bindir}/%{name}
 %{_javadir}/%{name}
 %{_unitdir}/lbrynet.service
 %{_unitdir}/lbry-seeder.service
