@@ -80,7 +80,7 @@ exit 0
 %{_unitdir}/lbrynet.service
 %{_unitdir}/lbry-seeder.service
 %{_unitdir}/lbry-seeder.timer
-%{_sharedstatedir}/lbry-seeder
+%dir %attr(750, lbry-seeder, lbry-seeder) %{_sharedstatedir}/lbry-seeder
 
 %changelog
 {{{ git_changelog }}}
