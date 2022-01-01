@@ -1,3 +1,2 @@
-data_dir: /var/lib/lbry-seeder/
 save_blobs: true
 save_files: false
