@@ -74,7 +74,7 @@ exit 0
 %doc README.md
 %doc CHANGELOG.md
 %license LICENSE
-%{_sysconfdir}/lbry-seeder
+%config(noreplace) %{_sysconfdir}/lbry-seeder
 %{_bindir}/%{name}
 %{_javadir}/%{name}
 %{_unitdir}/lbrynet.service
