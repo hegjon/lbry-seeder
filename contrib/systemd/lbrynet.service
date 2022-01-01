@@ -1,6 +1,6 @@
 [Unit]
 Description=lbrynet daemon
-After=network.target remote-fs.target
+After=network.target
 
 [Service]
 Type=simple
