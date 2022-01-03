@@ -46,6 +46,7 @@ install -Ddm 750 %{buildroot}%{_sharedstatedir}/lbry-seeder
 
 install -Ddm 755 %{buildroot}%{_sysconfdir}/lbry-seeder
 install -m 644 contrib/lbrynet.yml %{buildroot}%{_sysconfdir}/lbry-seeder/lbrynet.yml
+install -m 644 doc/default-config.edn %{buildroot}%{_sysconfdir}/lbry-seeder/lbry-seeder.edn
 
 %pre
 getent group lbry-seeder >/dev/null || groupadd -r lbry-seeder

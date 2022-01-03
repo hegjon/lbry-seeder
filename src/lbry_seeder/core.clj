@@ -3,9 +3,14 @@
   (:require [lbry-seeder.rpc :as rpc]
             [lbry-seeder.parser :as parser]))
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println (-> "@MoneroMatteo:b"
-              rpc/claim-search
-              parser/urls)))
+(defn -main [& args]
+  (if (empty? args)
+    (throw (RuntimeException. "Missing argument"))
+    (let [config (first args)]
+      (println config))))
+
+(comment
+(if empty? args )
+(println (-> "@MoneroMatteo:b"
+            rpc/claim-search
+            parser/urls)))

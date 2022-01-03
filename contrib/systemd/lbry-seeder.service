@@ -8,7 +8,7 @@ User=lbry-seeder
 Group=lbry-seeder
 RemainAfterExit=no
 
-ExecStart=/usr/bin/lbry-seeder /etc/lbry-seeder.conf
+ExecStart=/usr/bin/lbry-seeder /etc/lbry-seeder/lbry-seeder.edn
 
 [Install]
 Also=zegeba-backup-hourly.timer

@@ -3,8 +3,8 @@
             [lbry-seeder.parser :refer :all]))
 
 
-(deftest a-test
-  (testing "Sample fixture"
+(deftest parser
+  (testing "Fixture from claim-search"
     (let [content (slurp "test/lbry_seeder/claim-search-response.json")]
       (is (= (urls content)
            ["lbry://@MoneroMatteo#b/nature-walk-salvation-tribu---medium#f"
