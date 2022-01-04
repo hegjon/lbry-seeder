@@ -5,7 +5,7 @@
 ;; $ curl -d'{"method": "claim_search", "params": {"channel": "@MoneroMatteo:b"}}' http://localhost:5279/
 
 (defn request [channel]
-  (json/write-str {:method "claim_search", :params {:channel channel :stream_type "video"}}))
+  (json/write-str {:method "claim_search", :params {:channel channel :stream_type ["video"]}}))
 
 (defn claim-search [channel]
   (get
