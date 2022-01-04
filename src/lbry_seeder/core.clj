@@ -19,11 +19,9 @@
   (doseq [channel (:channels config)]
     (checkChannel channel)))
 
-
-(defn -main [& args]
-  (if-let [config (first args)]
-    (-> config
-        slurp
-        edn/read-string
-        run)
-    (throw (RuntimeException. "Missing argument"))))
+(defn -main
+  ([] (throw (RuntimeException. "Missing argument")))
+  ([config-file] (-> config-file
+                     slurp
+                     edn/read-string
+                     run)))
