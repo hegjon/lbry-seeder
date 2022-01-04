@@ -11,3 +11,11 @@
   (get
     (client/post "http://localhost:5279/" {:body (request channel) :content-type :json})
     :body))
+
+(defn _get-uri [uri]
+  (json/write-str {:method "get", :params {:uri uri :save_file false}}))
+
+(defn get-uri [uri]
+  (get
+    (client/post "http://localhost:5279/" {:body (_get-uri uri) :content-type :json})
+    :body))

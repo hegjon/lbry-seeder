@@ -5,7 +5,9 @@
             [clojure.edn :as edn]))
 
 (defn checkUrls [urls]
-  (println "Found" (count urls) "urls" urls))
+  (println "Found" (count urls) "urls")
+  (println "Downloading first url:" (first urls))
+  (rpc/get-uri (first urls)))
 
 (defn checkChannel [channel]
   (println "Checking channel" channel)
@@ -14,9 +16,9 @@
       parser/urls
       checkUrls))
 
-(defn run [config]
-  (println config)
-  (doseq [channel (:channels config)]
+(defn run [{channels :channels}]
+  (println channels)
+  (doseq [channel channels]
     (checkChannel channel)))
 
 (defn -main
