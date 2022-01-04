@@ -1,2 +1,3 @@
 save_blobs: true
 save_files: false
+max_connections_per_download: 20
