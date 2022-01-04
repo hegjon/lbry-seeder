@@ -8,7 +8,7 @@
   (println "Found" (count urls) "urls")
   (doseq [uri urls]
     (println "Downloading uri:" uri)
-    (rpc/get-uri (first urls))))
+    (rpc/get-uri uri)))
 
 (defn checkChannel [channel]
   (println "Checking channel" channel)
