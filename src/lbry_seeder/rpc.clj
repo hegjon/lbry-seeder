@@ -13,7 +13,7 @@
     :body))
 
 (defn _get-uri [uri]
-  (json/write-str {:method "get", :params {:uri uri :save_file false}}))
+  (json/write-str {:method "get", :params {:uri uri}}))
 
 (defn get-uri [uri]
   (get
