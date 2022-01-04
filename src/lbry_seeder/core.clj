@@ -23,7 +23,8 @@
     (checkChannel channel)))
 
 (defn -main
-  ([] (throw (RuntimeException. "Missing argument")))
+  ([] (do (println "Missing argument config-file")
+          (System/exit 22)))
   ([config-file] (-> config-file
                      slurp
                      edn/read-string
