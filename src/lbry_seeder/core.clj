@@ -14,7 +14,7 @@
   (println "Checking channel" channel)
   (-> channel
       rpc/claim-search
-      parser/urls
+      parser/canonical_urls
       downloadUris))
 
 (defn run [{channels :channels}]

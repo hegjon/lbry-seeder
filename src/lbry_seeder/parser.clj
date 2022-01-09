@@ -1,11 +1,5 @@
-(ns lbry-seeder.parser
-  (:require [clojure.data.json :as json]))
+(ns lbry-seeder.parser)
 
-(defn canonical_url [items]
-  (map #(get % "canonical_url") items))
-
-(defn urls [content]
-  (-> content
-      (get "result")
-      (get "items")
-      canonical_url))
+(defn canonical_urls [content]
+  (->> (get-in content ["result" "items"])
+      (map #(get % "canonical_url"))))

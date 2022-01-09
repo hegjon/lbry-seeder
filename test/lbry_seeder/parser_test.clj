@@ -7,7 +7,7 @@
 (deftest parser
   (testing "Fixture from claim-search"
     (let [content (slurp "test/lbry_seeder/claim-search-response.json")]
-      (is (= (parser/urls (json/read-str content))
+      (is (= (parser/canonical_urls (json/read-str content))
            ["lbry://@MoneroMatteo#b/nature-walk-salvation-tribu---medium#f"
             "lbry://@MoneroMatteo#b/Tax-AI-Blockchain#f"
             "lbry://@MoneroMatteo#b/SUNDAY-STREAM-4---COMMANDMENTS-BEATITUDE-1#d"
