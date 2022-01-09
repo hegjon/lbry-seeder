@@ -6,7 +6,6 @@
 
 (defn urls [content]
   (-> content
-      json/read-str
       (get "result")
       (get "items")
       canonical_url))

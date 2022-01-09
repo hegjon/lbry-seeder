@@ -4,18 +4,18 @@
 
 ;; $ curl -d'{"method": "claim_search", "params": {"channel": "@MoneroMatteo:b"}}' http://localhost:5279/
 
-(defn request [channel]
-  (json/write-str {:method "claim_search", :params {:channel channel :stream_type ["video"]}}))
+(defn _claim-search [channel page]
+  (json/write-str {:method "claim_search", :params {:channel channel :page page :stream_type ["video"]}}))
 
 (defn claim-search [channel]
-  (get
-    (client/post "http://localhost:5279/" {:body (request channel) :content-type :json})
-    :body))
+  (->
+    (client/post "http://localhost:5279/" {:body (_claim-search channel 1) :content-type :json})
+    :body
+    json/read-str))
 
 (defn _get-uri [uri]
   (json/write-str {:method "get", :params {:uri uri}}))
 
 (defn get-uri [uri]
-  (get
-    (client/post "http://localhost:5279/" {:body (_get-uri uri) :content-type :json})
-    :body))
+  (:body
+    (client/post "http://localhost:5279/" {:body (_get-uri uri) :content-type :json})))

@@ -4,7 +4,7 @@
             [lbry-seeder.parser :as parser]
             [clojure.edn :as edn]))
 
-(defn checkUrls [urls]
+(defn downloadUris [urls]
   (println "Found" (count urls) "urls")
   (doseq [uri urls]
     (println "Downloading uri:" uri)
@@ -15,7 +15,7 @@
   (-> channel
       rpc/claim-search
       parser/urls
-      checkUrls))
+      downloadUris))
 
 (defn run [{channels :channels}]
   (println channels)

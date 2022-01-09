@@ -1,12 +1,13 @@
 (ns lbry-seeder.parser-test
   (:require [clojure.test :refer :all]
-            [lbry-seeder.parser :refer :all]))
+            [lbry-seeder.parser :as parser]
+            [clojure.data.json :as json]))
 
 
 (deftest parser
   (testing "Fixture from claim-search"
     (let [content (slurp "test/lbry_seeder/claim-search-response.json")]
-      (is (= (urls content)
+      (is (= (parser/urls (json/read-str content))
            ["lbry://@MoneroMatteo#b/nature-walk-salvation-tribu---medium#f"
             "lbry://@MoneroMatteo#b/Tax-AI-Blockchain#f"
             "lbry://@MoneroMatteo#b/SUNDAY-STREAM-4---COMMANDMENTS-BEATITUDE-1#d"
